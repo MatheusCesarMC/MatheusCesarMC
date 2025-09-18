@@ -1,16 +1,31 @@
 # 👋 Olá! Eu sou o Matheus Cesar Medeiros de Carvalho
 
 <div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/MatheusCesarMC" target="_blank"><img src="https://raw.githubusercontent.com/MatheusCesarMC/MatheusCesarMC/main/img/github.png" width="50px" height="50px"/></a></td>
-      <td><a href="https://www.linkedin.com/in/matheus-cesar-1ab28635b/" target="_blank"><img src="https://raw.githubusercontent.com/MatheusCesarMC/MatheusCesarMC/main/img/linkedin.png" width="50px" height="50px"/></a></td>
-      <td><a href="mailto:MATHEUSCESARCR7M10@GMAIL.COM" target="_blank"><img src="https://raw.githubusercontent.com/MatheusCesarMC/MatheusCesarMC/main/img/gmail.png" width="50px" height="50px"/></a></td>
-      <td><a href="https://wa.me/5531997816517" target="_blank"><img src="https://raw.githubusercontent.com/MatheusCesarMC/MatheusCesarMC/main/img/wpp.png" width="50px" height="50px"/></a></td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td>
+<a href="https://github.com/MatheusCesarMC" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px"/>
+</a>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/matheus-cesar-1ab28635b/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" height="50px"/>
+</a>
+</td>
+<td>
+<a href="mailto:MATHEUSCESARCR7M10@GMAIL.COM" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50px" height="50px"/>
+</a>
+</td>
+<td>
+<a href="https://wa.me/5531997816517" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="50px" height="50px"/>
+</a>
+</td>
+</tr>
+</table>
 </div>
-
 
 ---
 
@@ -37,7 +52,7 @@ Estou em busca da minha primeira oportunidade na área de TI para aplicar meus c
 
 </td>
 <td>
-  [<img src="https://raw.githubusercontent.com/MatheusCesarMC/MatheusCesarMC/main/img/dev2.gif" width="250px"/>](https://github.com/MatheusCesarMC/MatheusCesarMC/blob/main/img/dev2.gif)
+  <img src="https://raw.githubusercontent.com/MatheusCesarMC/MatheusCesarMC/main/img/dev2.gif" width="250px"/>
 </td>
 </tr>
 </table>

@@ -52,7 +52,7 @@ Estou em busca da minha primeira oportunidade na área de TI para aplicar meus c
 
 </td>
 <td>
-  <img src="https://raw.githubusercontent.com/MatheusCesarMC/MatheusCesarMC/main/img/dev2.gif" width="250px"/>
+  [<img src="https://raw.githubusercontent.com/MatheusCesarMC/MatheusCesarMC/main/img/dev2.gif" width="250px"/>](https://github.com/MatheusCesarMC/MatheusCesarMC/blob/main/img/dev2.gif)
 </td>
 </tr>
 </table>

@@ -20,7 +20,7 @@
 </td>
 <td>
 <a href="https://wa.me/5531997816517" target="_blank">
-  ![Dev GIF](https://raw.githubusercontent.com/MatheusCesarMC/MatheusCesarMC/main/img/dev2.gif)
+  ![Dev GIF]
 </a>
 </td>
 </tr>

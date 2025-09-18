@@ -20,7 +20,7 @@
 </td>
 <td>
 <a href="https://wa.me/5531997816517" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="50px" height="50px"/>
+  ![Dev GIF](https://raw.githubusercontent.com/MatheusCesarMC/MatheusCesarMC/main/img/dev2.gif)
 </a>
 </td>
 </tr>

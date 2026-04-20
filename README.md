@@ -44,7 +44,7 @@ Estou em busca da minha primeira oportunidade na área de TI para aplicar meus c
 <td>
 
 ### 🚀 Sobre Mim  
-- 🎓 Estudante de **Ciência da Computação** (4º período | previsão 2027/2)  
+- 🎓 Estudante de **Ciência da Computação** (5º período | previsão 12/2027)  
 - 📦 Experiência profissional em **logística** (estoque, recebimento, armazenamento e preparação de produtos)  
 - 🔎 Características: **proativo, organizado e comprometido**  
 - 📚 Conhecimentos: **Pacote Office**, **Inglês Básico**  
